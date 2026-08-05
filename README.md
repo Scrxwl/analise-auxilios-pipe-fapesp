@@ -1,5 +1,7 @@
 # Análise dos Auxílios PIPE — FAPESP
 
+![Dashboard da análise dos Auxílios PIPE](assets/dashboard.png)
+
 ## Sobre o projeto
 
 Este projeto apresenta uma análise dos projetos do programa PIPE da FAPESP,
