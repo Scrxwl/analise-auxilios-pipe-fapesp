@@ -51,7 +51,7 @@ Crescimento = (Projetos em 2025 - Projetos em 2021) / Projetos em 2021
 
 ## Dashboard
 
-[Visualizar dashboard no Google Sheets]([COLOQUE-O-LINK-AQUI](https://docs.google.com/spreadsheets/d/1EILV0AfMtjYPArf5zwANSp-VDEdRNag-tT4ETwLShP0/edit?usp=sharing))
+[Visualizar dashboard no Google Sheets](https://docs.google.com/spreadsheets/d/1EILV0AfMtjYPArf5zwANSp-VDEdRNag-tT4ETwLShP0/edit?usp=sharing)
 
 O acesso ao Google Sheets está configurado somente para visualização.
 
