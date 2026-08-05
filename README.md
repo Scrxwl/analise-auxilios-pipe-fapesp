@@ -1,8 +1,5 @@
 # Análise dos Auxílios PIPE — FAPESP
 
-![Dashboard](<img width="1043" height="764" alt="image" src="https://github.com/user-attachments/assets/9f4d7b7a-0533-48dd-94aa-e8a69cef97cf" />
-)
-
 ## Sobre o projeto
 
 Este projeto apresenta uma análise dos projetos do programa PIPE da FAPESP,
@@ -64,9 +61,21 @@ O acesso ao Google Sheets está configurado somente para visualização.
 - Registros sem área ou data válida foram desconsiderados;
 - Os resultados representam o período e a data de extração informados.
 
+## Tratamento dos dados
+
+A análise foi construída inicialmente a partir da base pública da FAPESP.
+
+A base bruta foi utilizada para gerar tabelas dinâmicas e indicadores.
+Na versão disponibilizada neste repositório, a aba com os dados brutos foi
+removida, mantendo apenas os resultados consolidados e o dashboard.
+
+Essa decisão reduz o tamanho do arquivo e evita redistribuir integralmente
+a base original. A fonte oficial está indicada abaixo para permitir a
+rastreabilidade da análise.
+
 ## Autor
 
 Seu Nome
 
-- [LinkedIn](www.linkedin.com/in/joaogabrielcardosom)
+- [LinkedIn](https://www.linkedin.com/in/joaogabrielcardosom/)
 - [GitHub](https://github.com/Scrxwl)
