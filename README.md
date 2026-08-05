@@ -1,6 +1,6 @@
 # Análise dos Auxílios PIPE — FAPESP
 
-![Dashboard da análise dos Auxílios PIPE](assets/dashboard.png)
+![Dashboard da análise dos Auxílios PIPE](assets/Dashboard.png)
 
 ## Sobre o projeto
 
